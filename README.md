@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DONGSEOM
-- 👀 I’m interested in DB
-- 🌱 I’m currently learning SQL, AWS, RDS
+- 👀 I’m interested in DB & ML
+- 🌱 I’m currently learning SQL, AWS, RDS, Python
